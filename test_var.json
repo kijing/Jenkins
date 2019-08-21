@@ -1,0 +1,10 @@
+{
+  "cc": {
+    "root_dir": "/home/rk/cross_test/"
+
+  },
+  
+  "onboard": {
+    "root_dir": "/home/rk/tengine/"
+  }
+}
